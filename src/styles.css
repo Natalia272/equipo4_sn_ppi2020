@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.perfil {
+  height: 220px;
+  width: 100%px;
+  background-color:#ADABAB;
+  font-size: 25px;
+}
+
+  #editar {
+
+  float: left;
+  background-color:#ADABAB;
+   border-left: grey;
+   border-right: gray;
+   border-bottom: gray;
+   
+    width: 100px;
+  height: 40px;
+}
